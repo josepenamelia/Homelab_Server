@@ -66,3 +66,5 @@ Memory: 1.41 GiB / 7.75 GiB (18%)
 Swap: Disabled
 Disk (/): 13.98 GiB / 28.69 GiB (49%) - ext4
 Disk (/mnt/raid1): 2.47 TiB / 3.58 TiB (69%) - ext4
+
+[Readme](/README.md)
