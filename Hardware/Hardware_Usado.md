@@ -58,8 +58,6 @@ Raspberry Pie 5
 OS: Ubuntu 25.10 aarch64
 Host: Raspberry Pi 5 Model B Rev 1.1
 Kernel: Linux 6.17.0-1018-raspi
-Uptime: 2 days, 23 hours, 52 mins
-Packages: 1208 (dpkg)
 Shell: bash 5.2.37
 Terminal: /dev/pts/0
 CPU: BCM2712 (4) @ 2.40 GHz
