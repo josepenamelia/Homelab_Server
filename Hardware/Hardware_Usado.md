@@ -55,3 +55,16 @@ Pendiente
 ### Raspberry Pie
 
 Raspberry Pie 5
+OS: Ubuntu 25.10 aarch64
+Host: Raspberry Pi 5 Model B Rev 1.1
+Kernel: Linux 6.17.0-1018-raspi
+Uptime: 2 days, 23 hours, 52 mins
+Packages: 1208 (dpkg)
+Shell: bash 5.2.37
+Terminal: /dev/pts/0
+CPU: BCM2712 (4) @ 2.40 GHz
+GPU: Broadcom bcm2712-vc6 [Integrated]
+Memory: 1.41 GiB / 7.75 GiB (18%)
+Swap: Disabled
+Disk (/): 13.98 GiB / 28.69 GiB (49%) - ext4
+Disk (/mnt/raid1): 2.47 TiB / 3.58 TiB (69%) - ext4
