@@ -27,8 +27,11 @@ Kali
         192.168.0.200
 
 DNS
+
         192.168.0.5
+
 Host-Produccion
+
         192.168.0.199
 
 ## Plano de Red
@@ -42,3 +45,5 @@ Redirecciones:
 Otras configuraciones
 
     Pendiente
+
+[Readme](/README.md)
